@@ -1,3 +1,4 @@
+https://www.linkedin.com/pulse/simple-state-management-mean-application-rajesh-t/
 # MEANAPP
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.10.
